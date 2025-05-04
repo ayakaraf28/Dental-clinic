@@ -1,0 +1,82 @@
+# 🦷 Dental Clinic Management System
+
+A simple Dart console-based project that simulates a dental clinic management system.  
+It allows you to manage **clinics**, **doctors**, and **patients** efficiently.
+
+---
+
+## 📁 Project Structure
+
+lib/
+├── models/
+│ ├── clinic.dart
+│ ├── doctor.dart
+│ └── patient.dart
+├── system/
+│ └── dental.dart
+└── main.dart
+
+yaml
+ 
+
+---
+
+## 🚀 Features
+
+- Add and manage multiple **clinics**.
+- Add **doctors** and assign them to clinics.
+- Add **patients** and assign them to clinics.
+- Display all patients in each clinic.
+- Organize code using OOP principles (classes, methods, etc).
+
+---
+
+## 📌 How to Run
+
+1. Make sure Dart SDK is installed.
+2. Clone the repository:
+   
+bash
+   git clone https://github.com/ayakaraf28/Dental-clinic.git
+   cd Dental-clinic
+Run the project:
+
+bash
+ 
+dart lib/main.dart
+🧪 Sample Output
+css
+ 
+Clinic Smile Dental added to the Dental Clinic  
+Clinic Bright Teeth added to the Dental Clinic  
+The doctor Dr.Aya has been added to the clinic  
+The doctor Dr.Omar has been added to the clinic  
+The patient Rana has been added to the clinic  
+The patient Maya has been added to the clinic  
+The patient Moumen has been added to the clinic  
+
+Patients in clinic: Smile Dental  
+name Rana  
+age 22  
+symptoms Tooth pain  
+payment visa  
+
+...
+
+Patients in clinic: Bright Teeth  
+...
+📚 Author
+👩‍💻 Aya Karaf
+
+GitHub: @ayakaraf28
+
+🛠️ Tools Used
+Dart
+
+VS Code
+
+OOP Concepts
+
+📝 License
+This project is for educational/training purposes.
+
